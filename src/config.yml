@@ -1,0 +1,4 @@
+connectionsPerSecond: 0.2    # How many connections are allowed per second
+allowConnectionsAfter: 30000 # Milliseconds to wait after server starts before letting people join
+kickMessage: "Too many people connecting right now, try again in a bit."
+serverDelayMessage: "The server is still starting"
